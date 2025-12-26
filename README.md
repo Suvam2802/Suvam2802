@@ -69,8 +69,8 @@
 
 <div align="center">
    <img height="180" 
-     src="https://github-readme-stats.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" 
-     alt="Suvam's GitHub Stats" />
+     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&count_private=true" 
+     alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
