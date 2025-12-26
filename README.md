@@ -133,40 +133,44 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
-## ⭐ Featured Projects
-
 <div align="center">
 
 <!-- API AUTOMATION -->
-<a href="https://github.com/Suvam2802/API_Automation" style="text-decoration:none;">
+<a href="https://github.com/Suvam2802/API_Automation">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40"/>
   <br/>
-  <b>API Automation</b>
+  <span style="text-decoration:none; color:inherit; font-weight:600;">
+    API Automation
+  </span>
 </a>
 
 <br/><br/><br/>
 
 <!-- AUTOMATION FRAMEWORK -->
-<a href="https://github.com/Suvam2802/AutomationFramework" style="text-decoration:none;">
+<a href="https://github.com/Suvam2802/AutomationFramework">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
   <br/>
-  <b>Automation Framework</b>
+  <span style="text-decoration:none; color:inherit; font-weight:600;">
+    Automation Framework
+  </span>
 </a>
 
 <br/><br/><br/>
 
 <!-- CI/CD -->
-<a href="https://github.com/Suvam2802/AutomationCICD" style="text-decoration:none;">
+<a href="https://github.com/Suvam2802/AutomationCICD">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
   <br/>
-  <b>Automation CI/CD</b>
+  <span style="text-decoration:none; color:inherit; font-weight:600;">
+    Automation CI/CD
+  </span>
 </a>
 
 </div>
