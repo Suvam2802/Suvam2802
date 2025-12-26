@@ -136,7 +136,7 @@
 <div align="center">
 
 <a href="https://github.com/Suvam2802/API_Automation">
-  <img src="https://raw.githubusercontent.com/Suvam2802/API_Automation/main/images/logo.png" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" />
   <br/>
   <b>API Automation</b>
 </a>
@@ -144,7 +144,7 @@
 <br/><br/>
 
 <a href="https://github.com/Suvam2802/AutomationFramework">
-  <img src="https://raw.githubusercontent.com/Suvam2802/AutomationFramework/main/images/logo.png" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="64" />
   <br/>
   <b>Automation Framework</b>
 </a>
@@ -152,7 +152,7 @@
 <br/><br/>
 
 <a href="https://github.com/Suvam2802/AutomationCICD">
-  <img src="https://raw.githubusercontent.com/Suvam2802/AutomationCICD/main/images/logo.png" width="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="64" />
   <br/>
   <b>Automation CI/CD</b>
 </a>
