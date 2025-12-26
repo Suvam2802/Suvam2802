@@ -48,7 +48,7 @@
 
 🎓 Certifications: **Selenium & Java Automation (Hands-on)**
 
-⚡ Fun fact: **Clean tests matter as much as clean code**
+⚡ Fun fact: **Clean Tests Matter As Much As Clean Code**
 
 📦 **8** repositories | ⭐ **4** stars | 👥 **1** followers
 
