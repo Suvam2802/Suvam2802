@@ -180,6 +180,21 @@
 
 <div align="center">
 
+<div align="center">
+
+## 📊 Top Repositories
+
+| 🚀 Project | 📝 Description | ⭐ Stars | 🍴 Forks | 💻 Language |
+| :--- | :--- | :--- | :--- | :--- |
+| [**DesignPattern**](https://github.com/Suvam2802/DesignPattern) | No description | ![1](https://img.shields.io/badge/1-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**AutomationFramework**](https://github.com/Suvam2802/AutomationFramework) | No description | ![1](https://img.shields.io/badge/1-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**API_Automation**](https://github.com/Suvam2802/API_Automation) | No description | ![1](https://img.shields.io/badge/1-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**AutomationCICD**](https://github.com/Suvam2802/AutomationCICD) | No description | ![1](https://img.shields.io/badge/1-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**Suvam2802**](https://github.com/Suvam2802/Suvam2802) | My GitHub Profile README | ![0](https://img.shields.io/badge/0-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![N/A](https://img.shields.io/badge/N%2FA-gray?style=flat-square) |
+| [**JS_Problem-solving**](https://github.com/Suvam2802/JS_Problem-solving) | No description | ![0](https://img.shields.io/badge/0-gold?style=flat-square&logo=star) | ![0](https://img.shields.io/badge/0-blue?style=flat-square&logo=git) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+</div>
+
 ### 📊 Top Repositories
 
 <table>
