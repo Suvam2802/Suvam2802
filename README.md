@@ -133,8 +133,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
-## ⭐ Featured Projects
-
 <div align="center">
 
 <a href="https://github.com/Suvam2802/API_Automation">
