@@ -68,11 +68,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvam2802&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
   <br/><br/>
 
