@@ -133,47 +133,44 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
+## ⭐ Featured Projects
+
 <div align="center">
 
 <!-- API AUTOMATION -->
-<a href="https://github.com/Suvam2802/API_Automation">
+<a href="https://github.com/Suvam2802/API_Automation" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40"/>
   <br/>
   <b>API Automation</b>
-  <br/>
-  <sub>Java · Rest Assured · Cucumber</sub>
 </a>
 
 <br/><br/><br/>
 
 <!-- AUTOMATION FRAMEWORK -->
-<a href="https://github.com/Suvam2802/AutomationFramework">
+<a href="https://github.com/Suvam2802/AutomationFramework" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
   <br/>
   <b>Automation Framework</b>
-  <br/>
-  <sub>Java · Selenium · TestNG · Excel Driven</sub>
 </a>
 
 <br/><br/><br/>
 
 <!-- CI/CD -->
-<a href="https://github.com/Suvam2802/AutomationCICD">
+<a href="https://github.com/Suvam2802/AutomationCICD" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
   <br/>
   <b>Automation CI/CD</b>
-  <br/>
-  <sub>Java · Selenium · Jenkins CI</sub>
 </a>
 
 </div>
+
 ### 📊 Top Repositories
 
 <table>
