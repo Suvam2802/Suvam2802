@@ -178,64 +178,67 @@
 
 
 
+<div align="center">
+
 ### 📊 Top Repositories
 
 <table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/Suvam2802/DesignPattern"><b>DesignPattern</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/AutomationFramework"><b>AutomationFramework</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/API_Automation"><b>API_Automation</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/AutomationCICD"><b>AutomationCICD</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/Suvam2802"><b>Suvam2802</b></a></td>
-<td>My GitHub Profile README</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/JS_Problem-solving"><b>JS_Problem-solving</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>📝 Description</th>
+      <th>⭐ Stars</th>
+      <th>🍴 Forks</th>
+      <th>💻 Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/DesignPattern"><b>DesignPattern</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/AutomationFramework"><b>AutomationFramework</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/API_Automation"><b>API_Automation</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/AutomationCICD"><b>AutomationCICD</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/Suvam2802"><b>Suvam2802</b></a></td>
+      <td>My GitHub Profile README</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Suvam2802/JS_Problem-solving"><b>JS_Problem-solving</b></a></td>
+      <td>No description</td>
+      <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+      <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
+    </tr>
+  </tbody>
 </table>
 
+</div>
 <p align="center">
   <i>💡 Total of <b>8</b> repositories — <b>4</b> stars earned</i>
 </p>
