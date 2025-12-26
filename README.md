@@ -42,7 +42,7 @@
 
 🔭 Currently working on **[DesignPattern](https://github.com/Suvam2802/DesignPattern)**
 
-🌱 Currently learning **Selenium, Java, TestNG, Playwright, Automation Frameworks**
+🌱 Currently learning **Playwright, Advanced Automation Frameworks**
 
 💬 Ask me about **Selenium, Java, TestNG, Playwright, Automation Frameworks**
 
