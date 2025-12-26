@@ -133,14 +133,31 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
+## ⭐ Featured Projects
+
 <div align="center">
 
-<a href="https://github.com/Suvam2802/DesignPattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=DesignPattern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="DesignPattern"/></a>
-<a href="https://github.com/Suvam2802/AutomationFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationFramework"/></a>
-<a href="https://github.com/Suvam2802/API_Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=API_Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API_Automation"/></a>
-<a href="https://github.com/Suvam2802/AutomationCICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationCICD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationCICD"/></a>
-<a href="https://github.com/Suvam2802/Suvam2802"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=Suvam2802&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Suvam2802"/></a>
-<a href="https://github.com/Suvam2802/JS_Problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=JS_Problem-solving&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JS_Problem-solving"/></a>
+<a href="https://github.com/Suvam2802/API_Automation">
+  <img src="https://raw.githubusercontent.com/Suvam2802/API_Automation/main/assets/logo.png" width="80" alt="API Automation"/>
+  <br/>
+  <b>API Automation</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Suvam2802/AutomationFramework">
+  <img src="https://raw.githubusercontent.com/Suvam2802/AutomationFramework/main/assets/logo.png" width="80" alt="Automation Framework"/>
+  <br/>
+  <b>Automation Framework</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Suvam2802/AutomationCICD">
+  <img src="https://raw.githubusercontent.com/Suvam2802/AutomationCICD/main/assets/logo.png" width="80" alt="Automation CI/CD"/>
+  <br/>
+  <b>Automation CI/CD</b>
+</a>
 
 </div>
 
