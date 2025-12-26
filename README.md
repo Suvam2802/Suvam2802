@@ -65,8 +65,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true&cache_seconds=86400" />
 
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+</p>
 
 ---
 
