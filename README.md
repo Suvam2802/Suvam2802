@@ -3,21 +3,25 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Suvam2802&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Suvam2802&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
+<a href="https://github.com/suvam2802">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Ensuring%20Quality%20Through%20Smart%20Test%20Automation" alt="Typing SVG" />
+</a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Software-70a5fd?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-QA-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/4+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/3-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
-  <img src="https://komarev.com/ghpvc/?username=Suvam2802&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=suvam2802&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
-
+<p>
+<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:suvamswain2802@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+</p>
 
 </div>
 
@@ -25,21 +29,36 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 
+💼 **4.2+ Years of Experience**
 
-🔭 Currently working on **[DesignPattern](https://github.com/Suvam2802/DesignPattern)**
+🔭 Currently working on **[Suvam2802](https://github.com/Suvam2802/Suvam2802)**
 
+🌱 Currently learning **Playwright, Advanced Test Automation**
 
+💬 Ask me about **Selenium, Java, TestNG, RestAssured, Automation Frameworks**
 
+🎓 Certifications: **Selenium & Java Automation (Hands-on)**
 
+⚡ Fun fact: **Clean tests matter as much as clean code**
 
-📦 **7** repositories | ⭐ **3** stars | 👥 **1** followers
+📦 **8** repositories | ⭐ **3** stars | 👥 **1** followers
 
 <br clear="right"/>
 
+
+### 🤝 Open For
+
+<p>
+<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
+
+
+
+
+</p>
 
 
 ---
@@ -47,17 +66,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suvam2802&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suvam2802&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -72,10 +91,15 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="webdriverio"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
 <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white" alt="saucelabs"/>
+<img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 </div>
 
 </td>
@@ -84,10 +108,11 @@
 <h3 align="center">💻 Development</h3>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
@@ -98,7 +123,10 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="seleniumgrid"/>
 </div>
 
 </td>
@@ -112,12 +140,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Suvam2802/API_Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=API_Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API_Automation"/></a>
-<a href="https://github.com/Suvam2802/AutomationFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=AutomationFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationFramework"/></a>
-<a href="https://github.com/Suvam2802/AutomationCICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=AutomationCICD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationCICD"/></a>
-<a href="https://github.com/Suvam2802/DesignPattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=DesignPattern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="DesignPattern"/></a>
-<a href="https://github.com/Suvam2802/GitDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=GitDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="GitDemo"/></a>
-<a href="https://github.com/Suvam2802/Relevel_Problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Suvam2802&repo=Relevel_Problem-solving&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Relevel_Problem-solving"/></a>
+<a href="https://github.com/Suvam2802/API_Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=API_Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API_Automation"/></a>
+<a href="https://github.com/Suvam2802/AutomationFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationFramework"/></a>
+<a href="https://github.com/Suvam2802/AutomationCICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationCICD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationCICD"/></a>
+<a href="https://github.com/Suvam2802/JS_Problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=JS_Problem-solving&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JS_Problem-solving"/></a>
+<a href="https://github.com/Suvam2802/Suvam2802"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=Suvam2802&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Suvam2802"/></a>
+<a href="https://github.com/Suvam2802/DesignPattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=DesignPattern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="DesignPattern"/></a>
 
 </div>
 
@@ -156,31 +184,31 @@
 <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
+<td><a href="https://github.com/Suvam2802/JS_Problem-solving"><b>JS_Problem-solving</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Suvam2802/Suvam2802"><b>Suvam2802</b></a></td>
+<td>My GitHub Profile README</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/Suvam2802/DesignPattern"><b>DesignPattern</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/GitDemo"><b>GitDemo</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/CSS-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Suvam2802/Relevel_Problem-solving"><b>Relevel_Problem-solving</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
 </tbody>
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>7</b> repositories — <b>3</b> stars earned</i>
+  <i>💡 Total of <b>8</b> repositories — <b>3</b> stars earned</i>
 </p>
 
 
@@ -212,7 +240,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-7-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-8-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/👥_Followers-1-purple?style=for-the-badge" alt="Followers"/>
@@ -233,7 +261,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="https://github.com/Suvam2802"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:suvamswain2802@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
@@ -245,6 +273,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
-**⭐ From [Suvam2802](https://github.com/Suvam2802) with ❤️**
+**⭐ From [suvam2802](https://github.com/suvam2802) with ❤️**
 
 </div>
