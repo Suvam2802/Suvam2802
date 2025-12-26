@@ -67,17 +67,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suvam2802&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Suvam2802&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
