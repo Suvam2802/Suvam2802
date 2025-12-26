@@ -71,9 +71,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Suvam2802&theme=tokyonight&hide_border=true&background=0D1117" 
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 <!-- GitHub Trophies -->
 <div align="center">
