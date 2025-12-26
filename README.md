@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Suvam%20Swain&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&de..."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Suvam%20Swain&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/suvam2802">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Ensuring%20qual[..."]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Ensuring%20quality%20through%20smart%20test%20automation" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -20,16 +20,16 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mai[...]
+<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:suvamswain2802@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 </p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" widt[...]
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top La[...]
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
 📍 **Bangalore**
@@ -38,7 +38,7 @@
 
 🔭 Currently working on **[Suvam2802](https://github.com/Suvam2802/Suvam2802)**
 
-🌱 Currently learning **Advanced Selenium Frameworks, Playwright**
+🌱 Currently learning **Selenium, Java, TestNG, Playwright, Automation Frameworks**
 
 💬 Ask me about **Selenium, Java, TestNG, Playwright, Automation Frameworks**
 
@@ -58,24 +58,22 @@
 
 
 
+
 </p>
 
 
 ---
 
-## 🔥 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <!-- GitHub overall stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suvam2802&show_icons=true&theme=tokyonight&hide_border=true" alt="Suvam2802's GitHub stats"/>
-
-  <!-- Top languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=suvam2802&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suvam2802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suvam2802&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div>
 
 <!-- GitHub Trophies -->
 <div align="center">
@@ -94,9 +92,7 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/Sauce_Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white" alt="saucelabs"/>
@@ -139,12 +135,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Suvam2802/DesignPattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=DesignPattern&theme=tokyonight&hide_border=true&bg_color=0d1117&t[...]
-<a href="https://github.com/Suvam2802/AutomationFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationFramework&theme=tokyonight&hide_border=true&bg_co[...]
-<a href="https://github.com/Suvam2802/API_Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=API_Automation&theme=tokyonight&hide_border=true&bg_color=0d1117[...]
-<a href="https://github.com/Suvam2802/AutomationCICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationCICD&theme=tokyonight&hide_border=true&bg_color=0d1117[...]
-<a href="https://github.com/Suvam2802/Suvam2802"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=Suvam2802&theme=tokyonight&hide_border=true&bg_color=0d1117&title_col[...]
-<a href="https://github.com/Suvam2802/JS_Problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=JS_Problem-solving&theme=tokyonight&hide_border=true&bg_colo[...]
+<a href="https://github.com/Suvam2802/DesignPattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=DesignPattern&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="DesignPattern"/></a>
+<a href="https://github.com/Suvam2802/AutomationFramework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationFramework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationFramework"/></a>
+<a href="https://github.com/Suvam2802/API_Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=API_Automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API_Automation"/></a>
+<a href="https://github.com/Suvam2802/AutomationCICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=AutomationCICD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AutomationCICD"/></a>
+<a href="https://github.com/Suvam2802/Suvam2802"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=Suvam2802&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Suvam2802"/></a>
+<a href="https://github.com/Suvam2802/JS_Problem-solving"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suvam2802&repo=JS_Problem-solving&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JS_Problem-solving"/></a>
 
 </div>
 
@@ -260,7 +256,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mai[...]
+<a href="https://www.linkedin.com/in/suvam-swain-303a311a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:suvamswain2802@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
