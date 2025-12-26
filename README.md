@@ -36,7 +36,7 @@
 
 💼 **4.2+ Years of Experience**
 
-🔭 Currently working on **[Suvam2802](https://github.com/Suvam2802/Suvam2802)**
+🔭 Currently working on **[DesignPattern](https://github.com/Suvam2802/DesignPattern)**
 
 🌱 Currently learning **Selenium, Java, TestNG, Playwright, Automation Frameworks**
 
