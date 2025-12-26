@@ -29,12 +29,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<p align="right">
-  <b>Top Languages</b><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_(Learning)-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Python_(Learning)-3776AB?style=flat&logo=python&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white"/>
+
 
 
 📍 **Bangalore**
