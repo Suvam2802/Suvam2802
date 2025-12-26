@@ -32,9 +32,10 @@
 <p align="right">
   <b>Top Languages</b><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_(Learning)-F7DF1E?style=flat&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Python_(Learning)-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
+
 
 📍 **Bangalore**
 
