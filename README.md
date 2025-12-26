@@ -70,7 +70,11 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suvam2802&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvam2802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Suvam2802&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  
+  <img src="https://img.shields.io/badge/Rank-Gold-7aa2f7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Suvam2802?style=for-the-badge&color=bb9af7&label=Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/Suvam2802?style=for-the-badge&color=7dcfff&label=Commits" />
+  <img src="https://img.shields.io/github/followers/Suvam2802?style=for-the-badge&color=e0af68&label=Followers" />
 </div>
 
 ---
