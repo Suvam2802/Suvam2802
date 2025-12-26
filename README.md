@@ -58,7 +58,7 @@
 ### 🤝 Open For
 
 <p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
+<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="New Opportunity"/>
 
 
 
