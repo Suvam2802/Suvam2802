@@ -38,7 +38,7 @@
 
 📍 **Bangalore**
 
-💼 **4.2+ Years of Experience**
+💼 **4.5+ Years of Experience**
 
 🔭 Currently working on **[DesignPattern](https://github.com/Suvam2802/DesignPattern)**
 
